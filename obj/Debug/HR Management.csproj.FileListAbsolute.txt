@@ -1,0 +1,125 @@
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\bin\Debug\HR Management.exe.config
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\bin\Debug\HR Management.exe
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\bin\Debug\HR Management.pdb
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR Management.csprojAssemblyReference.cache
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form1.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Properties.Resources.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR Management.csproj.GenerateResource.cache
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR Management.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR Management.exe
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR Management.pdb
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form2.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form3.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form4.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form5.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form6.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form7.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form8.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form9.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form10.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form11.resources
+C:\Users\Mahmoud Abd Elhady\source\repos\HR Management\HR Management\obj\Debug\HR_Management.Form12.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\bin\Debug\HR Management.exe.config
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR Management.exe
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR Management.pdb
+E:\FCIS-ASU\DataBase\Project\HR Management\bin\Debug\HR Management.exe
+E:\FCIS-ASU\DataBase\Project\HR Management\bin\Debug\HR Management.pdb
+E:\FCIS-ASU\DataBase\Project\HR Management\bin\Debug\Oracle.DataAccess.dll
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR Management.csprojResolveAssemblyReference.cache
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form1.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form10.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form11.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.EmployeeForm.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form2.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form3.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form4.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form5.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form6.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form7.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form8.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Form9.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR_Management.Properties.Resources.resources
+E:\FCIS-ASU\DataBase\Project\HR Management\obj\Debug\HR Management.csproj.GenerateResource.Cache
+C:\Users\yasmin\Downloads\HR Management\bin\Debug\HR Management.exe.config
+C:\Users\yasmin\Downloads\HR Management\bin\Debug\HR Management.exe
+C:\Users\yasmin\Downloads\HR Management\bin\Debug\HR Management.pdb
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR Management.csprojAssemblyReference.cache
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form1.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form10.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form11.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.EmployeeForm.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form2.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form3.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form4.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form5.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form6.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form7.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form8.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form9.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Properties.Resources.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR Management.csproj.GenerateResource.cache
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR Management.exe
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR Management.pdb
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form13.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form14.resources
+C:\Users\yasmin\Downloads\HR Management\obj\Debug\HR_Management.Form15.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR Management.csprojAssemblyReference.cache
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form1.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form15.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form14.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form13.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form11.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.EmployeeForm.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form2.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form4.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form5.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form6.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Properties.Resources.resources
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR Management.csproj.GenerateResource.cache
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR Management.exe
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR Management.pdb
+C:\Users\yasmin\Documents\HR Management\bin\Debug\HR Management.exe.config
+C:\Users\yasmin\Documents\HR Management\bin\Debug\HR Management.exe
+C:\Users\yasmin\Documents\HR Management\bin\Debug\HR Management.pdb
+C:\Users\yasmin\Documents\HR Management\obj\Debug\HR_Management.Form16.resources
+M:\Second semester\DataBase\HR Management\bin\Debug\HR Management.exe.config
+M:\Second semester\DataBase\HR Management\bin\Debug\HR Management.exe
+M:\Second semester\DataBase\HR Management\bin\Debug\HR Management.pdb
+M:\Second semester\DataBase\HR Management\obj\Debug\HR Management.csprojAssemblyReference.cache
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form1.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form16.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form15.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form14.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form13.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form11.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.EmployeeForm.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form2.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form4.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form5.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Form6.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.Properties.Resources.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR_Management.ReportForm.resources
+M:\Second semester\DataBase\HR Management\obj\Debug\HR Management.csproj.GenerateResource.cache
+M:\Second semester\DataBase\HR Management\obj\Debug\HR Management.csproj.CoreCompileInputs.cache
+M:\Second semester\DataBase\HR Management\obj\Debug\HR Management.exe
+M:\Second semester\DataBase\HR Management\obj\Debug\HR Management.pdb
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportSource.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.Shared.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\AxShockwaveFlashObjects.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\ShockwaveFlashObjects.dll
+M:\Second semester\DataBase\HR Management\bin\Debug\stdole.dll
+M:\Second semester\DataBase\HR Management\obj\Debug\HR Management.csproj.CopyComplete
